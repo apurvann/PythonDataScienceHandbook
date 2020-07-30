@@ -12,4 +12,5 @@ line_profiler
 memory_profiler
 numexpr
 pandas-datareader
+h5py
 netcdf4
